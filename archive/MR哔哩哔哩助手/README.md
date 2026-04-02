@@ -1,0 +1,7 @@
+
+# MR哔哩哔哩助手
+
+https://greasyfork.org/zh-CN/scripts/445241-mr%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B-%E8%87%AA%E5%8A%A8%E5%AE%BD%E5%B1%8F%E6%A8%A1%E5%BC%8F-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B8%83%E5%B1%80-%E6%99%BA%E8%83%BD%E8%BF%9E%E6%92%AD-%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84b%E7%AB%99
+
+
+https://github.com/iMortRex
